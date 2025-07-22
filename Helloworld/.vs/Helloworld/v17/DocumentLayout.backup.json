@@ -3,7 +3,55 @@
   "WorkspaceRootPath": "C:\\wipro\\Day1\\Helloworld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\quiz8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\quiz8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Helloworld||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\employcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\employcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\empdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\empdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\strmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\strmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\strex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\strex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\quiz6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\quiz6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\quiz5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\quiz5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\bitwise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|solutionrelative:helloworld\\bitwise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CE6EB9B-84CA-4287-B534-BF0D91520EBB}|Helloworld\\Helloworld.csproj|c:\\wipro\\day1\\helloworld\\helloworld\\bitwise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,11 +108,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Cust.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Cust.cs",
               "RelativeDocumentMoniker": "Helloworld\\Cust.cs",
@@ -78,12 +126,180 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz8.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz8.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Quiz8.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz8.cs*",
+              "RelativeToolTip": "Helloworld\\Quiz8.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:37:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employcustom.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Employcustom.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Employcustom.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Employcustom.cs",
+              "RelativeToolTip": "Helloworld\\Employcustom.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:24:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpData.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\EmpData.cs",
+              "RelativeDocumentMoniker": "Helloworld\\EmpData.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\EmpData.cs",
+              "RelativeToolTip": "Helloworld\\EmpData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:14:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Employ.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Employ.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Employ.cs",
+              "RelativeToolTip": "Helloworld\\Employ.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:12:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Helloworld",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Helloworld.csproj",
+              "RelativeDocumentMoniker": "Helloworld\\Helloworld.csproj",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Helloworld.csproj",
+              "RelativeToolTip": "Helloworld\\Helloworld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-21T19:24:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Demo.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Demo.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Demo.cs",
+              "RelativeToolTip": "Helloworld\\Demo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:10:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data1.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Data1.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Data1.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Data1.cs",
+              "RelativeToolTip": "Helloworld\\Data1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:01:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Data.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Data.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Data.cs",
+              "RelativeToolTip": "Helloworld\\Data.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:06:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StrMethods.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\StrMethods.cs",
+              "RelativeDocumentMoniker": "Helloworld\\StrMethods.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\StrMethods.cs",
+              "RelativeToolTip": "Helloworld\\StrMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:32:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StrEx.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\StrEx.cs",
+              "RelativeDocumentMoniker": "Helloworld\\StrEx.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\StrEx.cs",
+              "RelativeToolTip": "Helloworld\\StrEx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:28:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quiz6.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz6.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Quiz6.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz6.cs",
+              "RelativeToolTip": "Helloworld\\Quiz6.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:24:44.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Quiz5.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz5.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Quiz5.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz5.cs",
+              "RelativeToolTip": "Helloworld\\Quiz5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:21:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bitwise4.cs",
+              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise4.cs",
+              "RelativeDocumentMoniker": "Helloworld\\Bitwise4.cs",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise4.cs",
+              "RelativeToolTip": "Helloworld\\Bitwise4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:29:49.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Bitwise3.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise3.cs",
               "RelativeDocumentMoniker": "Helloworld\\Bitwise3.cs",
-              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise3.cs*",
-              "RelativeToolTip": "Helloworld\\Bitwise3.cs*",
+              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise3.cs",
+              "RelativeToolTip": "Helloworld\\Bitwise3.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T20:27:16.087Z",
@@ -91,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Bitwise2.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise2.cs",
               "RelativeDocumentMoniker": "Helloworld\\Bitwise2.cs",
@@ -104,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Bitwise1.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Bitwise1.cs",
               "RelativeDocumentMoniker": "Helloworld\\Bitwise1.cs",
@@ -117,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Quiz.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Quiz.cs",
               "RelativeDocumentMoniker": "Helloworld\\Quiz.cs",
@@ -130,19 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Helloworld",
-              "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Helloworld.csproj",
-              "RelativeDocumentMoniker": "Helloworld\\Helloworld.csproj",
-              "ToolTip": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Helloworld.csproj*",
-              "RelativeToolTip": "Helloworld\\Helloworld.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-21T19:24:13.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Unary.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Unary.cs",
               "RelativeDocumentMoniker": "Helloworld\\Unary.cs",
@@ -155,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Calculation.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Calculation.cs",
               "RelativeDocumentMoniker": "Helloworld\\Calculation.cs",
@@ -168,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Custom1.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Custom1.cs",
               "RelativeDocumentMoniker": "Helloworld\\Custom1.cs",
@@ -181,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "ConstEx.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\ConstEx.cs",
               "RelativeDocumentMoniker": "Helloworld\\ConstEx.cs",
@@ -194,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "VariableEX.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\VariableEX.cs",
               "RelativeDocumentMoniker": "Helloworld\\VariableEX.cs",
@@ -207,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\wipro\\Day1\\Helloworld\\Helloworld\\Program.cs",
               "RelativeDocumentMoniker": "Helloworld\\Program.cs",
