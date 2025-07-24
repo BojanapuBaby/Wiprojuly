@@ -1,0 +1,6 @@
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\bin\Debug\DemoosecondLibrary.dll
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\bin\Debug\DemoosecondLibrary.pdb
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\obj\Debug\DemoosecondLibrary.csproj.AssemblyReference.cache
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\obj\Debug\DemoosecondLibrary.csproj.CoreCompileInputs.cache
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\obj\Debug\DemoosecondLibrary.dll
+C:\wipro\Day3(1)\DempFirstLibrary\DemoosecondLibrary\obj\Debug\DemoosecondLibrary.pdb

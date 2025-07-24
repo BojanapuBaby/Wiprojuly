@@ -1,0 +1,2 @@
+C:\wipro\Day3(1)\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.AssemblyReference.cache
+C:\wipro\Day3(1)\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.CoreCompileInputs.cache
