@@ -1,0 +1,2 @@
+C:\wipro\Day4\AbsConEx\obj\Debug\AbsConEx.csproj.AssemblyReference.cache
+C:\wipro\Day4\AbsConEx\obj\Debug\AbsConEx.csproj.CoreCompileInputs.cache

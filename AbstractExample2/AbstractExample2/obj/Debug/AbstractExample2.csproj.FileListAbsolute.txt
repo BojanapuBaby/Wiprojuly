@@ -1,0 +1,2 @@
+C:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.csproj.AssemblyReference.cache
+C:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.csproj.CoreCompileInputs.cache
