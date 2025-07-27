@@ -1,0 +1,9 @@
+C:\wipro\Day6\Project\EmployProject.Daoo\bin\Debug\EmployProject.Daoo.dll
+C:\wipro\Day6\Project\EmployProject.Daoo\bin\Debug\EmployProject.Daoo.pdb
+C:\wipro\Day6\Project\EmployProject.Daoo\bin\Debug\EmployProject.Models.dll
+C:\wipro\Day6\Project\EmployProject.Daoo\bin\Debug\EmployProject.Models.pdb
+C:\wipro\Day6\Project\EmployProject.Daoo\obj\Debug\EmployProject.Daoo.csproj.AssemblyReference.cache
+C:\wipro\Day6\Project\EmployProject.Daoo\obj\Debug\EmployProject.Daoo.csproj.CoreCompileInputs.cache
+C:\wipro\Day6\Project\EmployProject.Daoo\obj\Debug\EmployPr.8AA82783.Up2Date
+C:\wipro\Day6\Project\EmployProject.Daoo\obj\Debug\EmployProject.Daoo.dll
+C:\wipro\Day6\Project\EmployProject.Daoo\obj\Debug\EmployProject.Daoo.pdb
