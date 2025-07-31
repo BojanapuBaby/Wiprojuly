@@ -1,0 +1,6 @@
+C:\wipro\Day10\DipWith\bin\Debug\DipWith.dll
+C:\wipro\Day10\DipWith\bin\Debug\DipWith.pdb
+C:\wipro\Day10\DipWith\obj\Debug\DipWith.csproj.AssemblyReference.cache
+C:\wipro\Day10\DipWith\obj\Debug\DipWith.csproj.CoreCompileInputs.cache
+C:\wipro\Day10\DipWith\obj\Debug\DipWith.dll
+C:\wipro\Day10\DipWith\obj\Debug\DipWith.pdb

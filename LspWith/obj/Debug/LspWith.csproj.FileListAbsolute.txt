@@ -1,0 +1,2 @@
+C:\wipro\Day10\LspWith\obj\Debug\LspWith.csproj.AssemblyReference.cache
+C:\wipro\Day10\LspWith\obj\Debug\LspWith.csproj.CoreCompileInputs.cache
