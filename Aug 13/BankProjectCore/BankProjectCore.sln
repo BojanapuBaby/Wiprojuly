@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankProjectCore", "BankProjectCore.csproj", "{E7B34793-F4F6-4EAA-A26D-30E1ADC8552A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LmsProject", "..\..\Aug 14\LmsProject\LmsProject.csproj", "{1843E3BF-2F73-4D0C-BEC3-079FAA25472C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B34793-F4F6-4EAA-A26D-30E1ADC8552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B34793-F4F6-4EAA-A26D-30E1ADC8552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B34793-F4F6-4EAA-A26D-30E1ADC8552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B34793-F4F6-4EAA-A26D-30E1ADC8552A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1843E3BF-2F73-4D0C-BEC3-079FAA25472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1843E3BF-2F73-4D0C-BEC3-079FAA25472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1843E3BF-2F73-4D0C-BEC3-079FAA25472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1843E3BF-2F73-4D0C-BEC3-079FAA25472C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18BDB4C3-67A8-4BF0-BC08-AF24B031DFE3}
+	EndGlobalSection
+EndGlobal
