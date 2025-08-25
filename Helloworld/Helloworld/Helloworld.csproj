@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Helloworld.Quiz8</StartupObject>
+    <StartupObject>Helloworld.Bitwise4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -71,22 +71,10 @@
     <Compile Include="Cust.cs" />
     <Compile Include="Custom.cs" />
     <Compile Include="Custom1.cs" />
-    <Compile Include="Data.cs" />
-    <Compile Include="Data1.cs" />
-    <Compile Include="Demo.cs" />
-    <Compile Include="EmpData.cs" />
-    <Compile Include="Employ.cs" />
-    <Compile Include="Employcustom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quiz.cs" />
     <Compile Include="Quiz1.cs" />
-    <Compile Include="Quiz5.cs" />
-    <Compile Include="Quiz6.cs" />
-    <Compile Include="Quiz7.cs" />
-    <Compile Include="Quiz8.cs" />
-    <Compile Include="StrEx.cs" />
-    <Compile Include="StrMethods.cs" />
     <Compile Include="Unary.cs" />
     <Compile Include="VariableEX.cs" />
   </ItemGroup>
